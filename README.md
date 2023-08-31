@@ -1,4 +1,8 @@
 # Personal Loan Campaign - Customer Prediction
+December 4 2022 | Hugo Hiraoka | hhiraokawatts@gmail.com
+
+
+**Context**
 
 AllLife Bank is a US bank that has a growing customer base. The majority of these customers are liability customers (depositors) with varying sizes of deposits. The number of customers who are also borrowers (asset customers) is quite small, and the bank is interested in expanding this base rapidly to bring in more loan business and in the process, earn more through the interest on loans. In particular, the management wants to explore ways of converting its liability customers to personal loan customers (while retaining them as depositors).
 
